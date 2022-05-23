@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/school-app-v1/static/css/main.cdf5cd72.css",
+    "main.js": "/school-app-v1/static/js/main.57d1b9c5.js",
+    "static/js/787.b2719e31.chunk.js": "/school-app-v1/static/js/787.b2719e31.chunk.js",
+    "index.html": "/school-app-v1/index.html",
+    "main.cdf5cd72.css.map": "/school-app-v1/static/css/main.cdf5cd72.css.map",
+    "main.57d1b9c5.js.map": "/school-app-v1/static/js/main.57d1b9c5.js.map",
+    "787.b2719e31.chunk.js.map": "/school-app-v1/static/js/787.b2719e31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf5cd72.css",
+    "static/js/main.57d1b9c5.js"
+  ]
+}
